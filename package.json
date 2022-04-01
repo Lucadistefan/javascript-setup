@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Lucadistefan/javascript-setup#readme",
   "dependencies": {
+    "@babel/core": "^7.17.8",
     "node-modules": "^1.0.1",
     "webpack": "^5.70.0"
   }
